@@ -42,5 +42,3 @@ Fucture scope :
 
 3. Make sure the program is simple and easy to use.
 
-
-<>Future Scope:-
