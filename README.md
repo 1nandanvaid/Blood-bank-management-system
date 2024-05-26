@@ -34,5 +34,13 @@ Client side:
 
 • Web browser: Internet explorer or any compatible web browser.
 
+Fucture scope :
+
+1. Ensure that all the functionalities of a manual blood bank are covered.
+
+2. To include all the blood banks at least within a city.
+
+3. Make sure the program is simple and easy to use.
+
 
 <>Future Scope:-
